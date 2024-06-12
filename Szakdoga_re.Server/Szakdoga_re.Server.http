@@ -1,0 +1,6 @@
+@Szakdoga_re.Server_HostAddress = http://localhost:5287
+
+GET {{Szakdoga_re.Server_HostAddress}}/gitdata/
+Accept: application/json
+
+###

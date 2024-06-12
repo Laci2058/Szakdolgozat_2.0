@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szakdoga_re.Server", "Szakdoga_re.Server\Szakdoga_re.Server.csproj", "{0286DFA9-254A-46B6-B345-CF0B384ACA2B}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "szakdoga_re.client", "szakdoga_re.client\szakdoga_re.client.esproj", "{001E1986-80A3-4913-BA61-9E6A1B33F123}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0286DFA9-254A-46B6-B345-CF0B384ACA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0286DFA9-254A-46B6-B345-CF0B384ACA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0286DFA9-254A-46B6-B345-CF0B384ACA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0286DFA9-254A-46B6-B345-CF0B384ACA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{001E1986-80A3-4913-BA61-9E6A1B33F123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001E1986-80A3-4913-BA61-9E6A1B33F123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001E1986-80A3-4913-BA61-9E6A1B33F123}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{001E1986-80A3-4913-BA61-9E6A1B33F123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001E1986-80A3-4913-BA61-9E6A1B33F123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{001E1986-80A3-4913-BA61-9E6A1B33F123}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C20FAAE6-0BB4-46D0-8772-6F8DE1765935}
+	EndGlobalSection
+EndGlobal
